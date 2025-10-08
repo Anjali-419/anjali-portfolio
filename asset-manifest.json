@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/anjali-portfolio/static/css/main.27933e65.css",
+    "main.js": "/anjali-portfolio/static/js/main.98398118.js",
+    "static/media/linkedinpic.jpg": "/anjali-portfolio/static/media/linkedinpic.37afeafbf1396a44596e.jpg",
+    "index.html": "/anjali-portfolio/index.html",
+    "main.27933e65.css.map": "/anjali-portfolio/static/css/main.27933e65.css.map",
+    "main.98398118.js.map": "/anjali-portfolio/static/js/main.98398118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27933e65.css",
+    "static/js/main.98398118.js"
+  ]
+}
