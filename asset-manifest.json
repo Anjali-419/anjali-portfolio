@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anjali-portfolio/static/css/main.21d012ce.css",
-    "main.js": "/anjali-portfolio/static/js/main.3d002f9a.js",
-    "static/media/linkedinpic.jpg": "/anjali-portfolio/static/media/linkedinpic.37afeafbf1396a44596e.jpg",
+    "main.js": "/anjali-portfolio/static/js/main.a49abf9e.js",
+    "static/media/linkedinpic.png": "/anjali-portfolio/static/media/linkedinpic.e0ad0d153e2c559db5f5.png",
     "index.html": "/anjali-portfolio/index.html",
     "main.21d012ce.css.map": "/anjali-portfolio/static/css/main.21d012ce.css.map",
-    "main.3d002f9a.js.map": "/anjali-portfolio/static/js/main.3d002f9a.js.map"
+    "main.a49abf9e.js.map": "/anjali-portfolio/static/js/main.a49abf9e.js.map"
   },
   "entrypoints": [
     "static/css/main.21d012ce.css",
-    "static/js/main.3d002f9a.js"
+    "static/js/main.a49abf9e.js"
   ]
 }
